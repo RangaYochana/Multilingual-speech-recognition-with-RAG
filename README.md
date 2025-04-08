@@ -11,6 +11,8 @@ This project demonstrates **Multilingual Speech Recognition** enhanced with **Re
 - 📚 Uses RAG to enhance results by retrieving relevant context from a document database
 - 💬 Outputs improved answers or summaries with the help of retrieved knowledge
 
+- 
+![Sample Output](result.png)
 
 ## 🧠 Tech Stack
 
