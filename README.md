@@ -17,9 +17,9 @@ This project demonstrates **Multilingual Speech Recognition** enhanced with **Re
 ## 🧠 Tech Stack
 
 - **OpenAI Whisper** – For converting speech to text
-- **LangChain** – For building Retrieval-Augmented Generation (RAG) pipeline
-- **ChromaDB** – Used as a vector store for document retrieval
-- **SentenceTransformers** – For embedding text into vectors
-- **Hugging Face Transformers** – For advanced language modeling
+- **Deep Translator** – For language translation
+- **FAISS** – vector similarity search
+- **PyTorch** – model training and inference
+- **Gradio** – For building web interface
 
 
